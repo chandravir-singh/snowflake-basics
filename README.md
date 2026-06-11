@@ -375,16 +375,5 @@ Snowflake data pipeline + SQL interview preparation project covering Streams, Ta
 
 ---
 
-# ✅ ✅ FINAL RESULT
 
-Your repo will look 🔥:
-
-```
-
-snowflake-hr-pipeline/
-│
-├── HR\_PIPELINE.SQL ✅
-└── README.md ✅ (Professional + Interview-ready)
-
-```
 

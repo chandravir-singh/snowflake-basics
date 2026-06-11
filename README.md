@@ -18,6 +18,9 @@ It is designed to demonstrate both:
 
 ## 🏗 Architecture (Pipeline)
 
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/d0dba073-953f-4cc3-b65e-11cf6f2f67ff" />
+
+
 ```
 
 ```
